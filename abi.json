@@ -1,0 +1,1 @@
+[{"constant":true,"inputs":[{"name":"n","type":"uint256"}],"name":"sum","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":true,"inputs":[{"name":"n","type":"uint256"},{"name":"acc","type":"uint256"}],"name":"sumtail","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"}]
